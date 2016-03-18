@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Multimedia Design Scientist Nathaniel Hafer]]></title>
+        <description><![CDATA[Multimedia Design Scientist Nathaniel Hafer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 02:20:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44845917-70bc-4f5b-9de0-49a0347de11d.jpg" alt="" title="" />]]></description>
+            <link>undefined0bdc2f45-353a-4d9a-8f18-031d043a5667/index.html</link>
+            <guid isPermaLink="false">0bdc2f45-353a-4d9a-8f18-031d043a5667</guid>
+            <pubDate>Fri, 18 Mar 2016 02:20:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
