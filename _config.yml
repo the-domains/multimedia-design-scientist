@@ -1,29 +1,18 @@
-name: Multimedia Design Scientist
-favicon: null
-layout_spectrum: 0.37621
-typography_spectrum: 0.13532
-title: Multimedia Design Scientist Nathaniel Hafer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#141414'
-    - '#e3e3e3'
-    - '#925554'
-    - '#82b371'
-    - '#395b81'
+    - '#E0E8E0'
+    - '#185898'
+    - '#6878A0'
+    - '#C82028'
+    - '#C88088'
   brandStrength: 0.3125
   lightness: 0.4375
-  saturation: 0.625
   rhythmicContrast: 0.5
+  saturation: 0.625
+cta: {}
+layout_spectrum: 0.37621
+name: Multimedia Design Scientist
+opengraph: {}
 purpose: []
+typography_spectrum: 0.13532
