@@ -1,31 +1,29 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T03:18:48.113Z'
-dateModified: '2016-03-21T03:18:37.813Z'
+datePublished: '2016-03-21T03:28:02.883Z'
+dateModified: '2016-03-21T03:27:25.104Z'
 title: Illustration Design
 author: []
+sourcePath: _posts/2016-03-21-illustration-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-illustration-design.md
-published: true
 url: illustration-design/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b23caa6f-dc22-47f6-9b15-160911aa8083.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f83c21d0-a361-40cb-a780-936d88029d5b.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cd0ba08-4016-473f-87a6-17c2df91b348.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d5e3ae-b9a5-480c-a384-03826030508e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0563df96-814d-480c-8528-7fe4b48ea996.jpg)
@@ -34,8 +32,6 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e8e875-0f2e-4d57-99cd-671ac2cbb023.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9db16f9-658c-49b0-9c9d-9228179fbfbf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1708b514-c13c-4f89-8e65-d96f4734f0e3.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a0a94a1-66ed-4985-a497-9662b41c4875.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20e68ef-f3dc-4c46-94a8-f1f37a33c983.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/352275d5-0d1e-4617-a8e5-8b347b509c3c.jpg)
