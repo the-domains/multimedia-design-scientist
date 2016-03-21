@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I am an independent multimedia design scientist showcasing graphic design, audio, and video creations. I am a basement tinkerer of the digital arts both self-taught and classically trained.\_If it can be imagined, it can be created."
-datePublished: '2016-03-21T01:57:01.935Z'
-dateModified: '2016-03-21T01:56:58.353Z'
+datePublished: '2016-03-21T02:51:50.806Z'
+dateModified: '2016-03-21T02:51:40.093Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-nathaniel-hafer-is-an-independent-multimedia-design-scientis.md
