@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Artwork for indie-punk band, ForAges. From Drums, PA'
-datePublished: '2016-03-21T01:10:45.566Z'
-dateModified: '2016-03-21T01:10:36.294Z'
+datePublished: '2016-03-21T03:24:23.841Z'
+dateModified: '2016-03-21T03:24:21.357Z'
 title: ForAges Art
 author: []
 sourcePath: _posts/2016-03-21-forages-art.md
@@ -37,6 +37,7 @@ Artwork for indie-punk band, ForAges. From Drums, PA
 [http://forages.bandcamp.com/album/demo][1]
 
 [http://www.reverbnation.com/forages][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df9ba6ec-f291-4917-9f96-8458492eb9c8.jpg)
 
 [0]: https://www.facebook.com/ForAgesBand
 [1]: http://forages.bandcamp.com/album/demo
