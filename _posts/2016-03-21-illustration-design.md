@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T03:28:02.883Z'
-dateModified: '2016-03-21T03:27:25.104Z'
+datePublished: '2016-03-21T03:32:42.750Z'
+dateModified: '2016-03-21T03:28:17.447Z'
 title: Illustration Design
 author: []
 sourcePath: _posts/2016-03-21-illustration-design.md
