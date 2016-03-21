@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T01:08:23.659Z'
-dateModified: '2016-03-21T00:40:21.247Z'
+datePublished: '2016-03-21T01:21:08.286Z'
+dateModified: '2016-03-21T01:20:34.130Z'
 title: Visual Arts
 author: []
 sourcePath: _posts/2016-03-21-visual-arts.md
@@ -22,4 +22,4 @@ url: visual-arts/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/586c07b30a04d741328dcbb006fdc9f0111fd3ce.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29533298-23e3-4a18-aa83-1b7540926ad7.jpg)
