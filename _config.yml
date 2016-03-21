@@ -1,7 +1,7 @@
 name: Multimedia Design Scientist
 favicon: null
 layout_spectrum: 0.10882
-typography_spectrum: 0.85547
+typography_spectrum: 0.47064
 title: Nathaniel Hafer - Multimedia Design Scientist
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#82b371'
     - '#395b81'
   brandStrength: 0.25
-  lightness: 0.6875
+  lightness: 0.5
   saturation: 0.25
   rhythmicContrast: 1
 purpose: []
