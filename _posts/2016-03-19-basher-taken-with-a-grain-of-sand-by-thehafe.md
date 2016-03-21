@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Electro-cyberpunk chip-doof dance wave wave psy-trance fusion!!'
-datePublished: '2016-03-21T01:27:53.380Z'
-dateModified: '2016-03-21T01:27:15.841Z'
+datePublished: '2016-03-21T01:29:20.837Z'
+dateModified: '2016-03-21T01:29:15.648Z'
 author:
   - name: Thehafe
     url: 'http://soundcloud.com/thehafe'
@@ -51,7 +51,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Basher - Taken With A Grain Of Sand by Thehafe
+title: Basher - Taken With A Grain Of Sand
 sourcePath: _posts/2016-03-19-basher-taken-with-a-grain-of-sand-by-thehafe.md
 published: true
 authors: []
