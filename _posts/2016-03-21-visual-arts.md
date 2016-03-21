@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sometimes arbitrary and spontaneous inspiration is the best way to work in the age of digital packets.
-datePublished: '2016-03-21T19:37:05.616Z'
-dateModified: '2016-03-21T19:36:49.254Z'
+datePublished: '2016-03-21T19:39:40.317Z'
+dateModified: '2016-03-21T19:37:15.923Z'
 title: Visual Arts
 author: []
 sourcePath: _posts/2016-03-21-visual-arts.md
