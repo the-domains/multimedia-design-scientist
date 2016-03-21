@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Sometimes arbitrary and spontaneous inspiration is the best way to work in the age of digital packets.
-datePublished: '2016-03-21T19:39:40.317Z'
-dateModified: '2016-03-21T19:37:15.923Z'
+datePublished: '2016-03-21T19:44:12.342Z'
+dateModified: '2016-03-21T19:44:08.884Z'
 title: Visual Arts
 author: []
 sourcePath: _posts/2016-03-21-visual-arts.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: visual-arts/index.html
-_type: WebPage
+_type: Article
 
 ---
 Sometimes arbitrary and spontaneous inspiration is the best way to work in the age of digital packets.
