@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sometimes arbitrary and spontaneous inspiration is the best way to work in the age of digital packets.
-datePublished: '2016-03-21T19:44:12.342Z'
-dateModified: '2016-03-21T19:44:08.884Z'
+datePublished: '2016-03-21T19:49:35.167Z'
+dateModified: '2016-03-21T19:49:18.005Z'
 title: Visual Arts
 author: []
 sourcePath: _posts/2016-03-21-visual-arts.md
@@ -23,10 +23,10 @@ _type: Article
 
 ---
 Sometimes arbitrary and spontaneous inspiration is the best way to work in the age of digital packets.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ff8e5c59d2f717263857573fc494020a44a4be6.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/748451d60f922973cdb46e2c47587782beed425c.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/34e581cb81fb77f2c0060645b5a3d2df7b6e5259.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/798aed88-c320-4ea9-b63c-2ddf784ddbf2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ff8e5c59d2f717263857573fc494020a44a4be6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669d27d-8863-4a70-a8c8-8c9f049cec2a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1bc023dff1a5cec31fadd3fe6d995c6cc705d6a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ef07d6e-59ac-479f-9ab0-6a596b530465.jpg)
