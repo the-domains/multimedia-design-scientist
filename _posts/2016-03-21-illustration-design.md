@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T19:19:08.781Z'
-dateModified: '2016-03-21T19:14:19.428Z'
+datePublished: '2016-03-21T19:20:00.097Z'
+dateModified: '2016-03-21T19:19:23.060Z'
 title: Illustration Design
 author: []
 sourcePath: _posts/2016-03-21-illustration-design.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: illustration-design/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c03d4daf4adebb2efdef2c40d1a440d974772429.jpg)
