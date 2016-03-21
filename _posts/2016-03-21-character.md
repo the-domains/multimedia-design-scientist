@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Art of Character Design Fine and Digital
-datePublished: '2016-03-21T02:52:59.011Z'
-dateModified: '2016-03-21T02:52:55.689Z'
+datePublished: '2016-03-21T19:31:33.061Z'
+dateModified: '2016-03-21T19:31:31.729Z'
 title: Character
 author: []
 sourcePath: _posts/2016-03-21-character.md
@@ -22,14 +22,14 @@ url: character/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ceb688-6254-4f78-9d28-825fa8e5a055.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d8231be-8d13-4f18-b2f8-5bcaeae47e0e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9895aa04-2b60-4899-9fff-14cbdc5d1d0e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6653670-7325-4506-a57e-adf5565e15bd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad09f332-1ee4-4fe3-a060-406143d8fb68.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/723954bd-cc5b-4dc7-bdae-07f15b40b01c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7c513d7-9d2c-4d8c-bde9-ef03dc94f3c2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30e97c3ac1b59d97230821f32cd20445f0aa9372.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a825d68b9b085dbaed3f3cf58a5580ba5d8c77d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b244002fc0fb210aa15f5ef8c2d494d6fee500b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9deaf3880c2488123f6361ff1b388c1f26d3d913.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/058e04748d22b50630af9a6bf036b97b3dc8204c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ceb9e0af7e2c353c42730628160c83a8ea38cda2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c6210fd34c83ffe5360e7fcc3d65c778248947b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cddcd486-278f-4ab2-8453-71abcfc4dfe2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/877751f3-1ac9-4e4e-b001-b6d7ab0bf493.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d70cd9203ac0abe81790fbdc587398344ede2588.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e81d7c20-b7a1-413f-a8c1-d5f6ebf8f671.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b031c9bb-0a83-48ed-bb81-fe8aa0c91992.jpg)
