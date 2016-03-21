@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Art of Character Design Fine and Digital
-datePublished: '2016-03-21T02:24:26.790Z'
-dateModified: '2016-03-21T02:24:15.325Z'
+datePublished: '2016-03-21T02:52:59.011Z'
+dateModified: '2016-03-21T02:52:55.689Z'
 title: Character
 author: []
+sourcePath: _posts/2016-03-21-character.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-character.md
-published: true
 url: character/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ceb688-6254-4f78-9d28-825fa8e5a055.jpg)
