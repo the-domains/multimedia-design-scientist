@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T19:20:00.097Z'
-dateModified: '2016-03-21T19:19:23.060Z'
+datePublished: '2016-03-21T19:24:11.808Z'
+dateModified: '2016-03-21T19:23:03.564Z'
 title: Illustration Design
 author: []
 sourcePath: _posts/2016-03-21-illustration-design.md
@@ -24,16 +24,16 @@ _type: WebPage
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c03d4daf4adebb2efdef2c40d1a440d974772429.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f46430b4e6ea8ee20e80845829c019b4d8ac2717.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df929c882851e03e95ff4fa656e5689de4998347.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9cb9eff8f9a98db19e96cf76ebdf0ca831586dc.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05f3bbe391cc053f2253d1c45eb5b1c1e3878bc8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df929c882851e03e95ff4fa656e5689de4998347.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85ddb0198a09840bbe75db1972d9550bde16e127.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0f4727-389b-4906-af80-d09eb87fa2a8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e8e875-0f2e-4d57-99cd-671ac2cbb023.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9db16f9-658c-49b0-9c9d-9228179fbfbf.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3849377227b4cadeb7f71270735c87998cf1a350.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/95f6c20f1d5be416d2a4a5808d30cf91f6c43452.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/667ea1e815855ee2cf190f44fe51e38d8899d2f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/95f6c20f1d5be416d2a4a5808d30cf91f6c43452.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a0d3d7ef83163892cd63649378ece9ca4536c6.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85b990b0bdb8b77e2b535dd65d2584c1b731fba1.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd589c938097a4cf3fe0a2d2dd7448844ed24f3e.jpg)
