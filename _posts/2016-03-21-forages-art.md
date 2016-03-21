@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Artwork for indie-punk band, ForAges. From Drums, PA'
-datePublished: '2016-03-21T01:03:31.903Z'
-dateModified: '2016-03-21T01:03:18.202Z'
+datePublished: '2016-03-21T01:10:45.566Z'
+dateModified: '2016-03-21T01:10:36.294Z'
 title: ForAges Art
 author: []
+sourcePath: _posts/2016-03-21-forages-art.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-forages-art.md
-published: true
 url: forages-art/index.html
-_type: WebPage
+_type: Article
 
 ---
 Artwork for indie-punk band, ForAges. From Drums, PA
